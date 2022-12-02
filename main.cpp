@@ -1,5 +1,5 @@
 // main.cpp
-// Author: Yolanda Martínez T.
+// John Smith
 
 #include <iostream>
 using namespace std;
