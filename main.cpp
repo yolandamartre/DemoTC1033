@@ -1,3 +1,6 @@
+// main.cpp
+// Author: Yolanda Martínez
+
 #include <iostream>
 using namespace std;
 int main ()  {
