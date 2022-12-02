@@ -1,5 +1,5 @@
 // main.cpp
-// Author: Yolanda Martínez
+// Author: Yolanda Martínez T.
 
 #include <iostream>
 using namespace std;
